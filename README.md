@@ -8,7 +8,7 @@ Uses **Google Fonts (Poppins & Work Sans)** and semantic structure.
 ---
 
 ## 📸 Preview  
-![Savory Preview](https://placehold.co/1200x650?text=Savory+Recipe+Grid+Preview)  
+![Savory Preview](https://github.com/SunilKumarPeela/WebImages/blob/main/savoryrecpie.png)  
 
 ---
 
